@@ -18,5 +18,6 @@
 
 - [📚 第一章：简介](./Chapter1%20-%20What%20Is%20JavaScript/简介.md)
 - [📚 第二章：在 HTML 中使用 JavaScript](./Chapter2%20-%20JavaScript%20in%20HTML/在HTML中使用JavaScript.md)
+- [📚 第三章：基本概念](./Chapter3%20-%20Language%20Basics/在HTML中使用JavaScript.md)
 
 
