@@ -22,4 +22,4 @@
 - [📚 第四章：变量、作用域和内存问题](./Chapter4%20-%20Variables%20Scope%20And%20Memory/变量、作用域和内存问题.md)
 - 📦 第五章：引用类型
   - [📚 第五章：Object 类型](./Chapter5%20-%20Reference%20Types/Object%20类型.md)
-  - [📚 第五章：Object 类型](./Chapter5%20-%20Reference%20Types/Array%20类型.md)
+  - [📚 第五章：Array 类型](./Chapter5%20-%20Reference%20Types/Array%20类型.md)
