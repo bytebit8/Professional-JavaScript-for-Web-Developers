@@ -1,4 +1,4 @@
-## 《JavaScript 高级程序设计》第五章：Function 类型
+# 《JavaScript 高级程序设计》第五章：Function 类型
 
 函数也是对象，每个函数都是 `Function` 类型的实例，只是函数的书写格式与普通对象的格式存在着很大的区别。
 
