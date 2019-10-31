@@ -25,3 +25,4 @@
   - [📚 第五章：Array 类型](./Chapter5%20-%20Reference%20Types/Array%20类型.md)
   - [📚 第五章：Function 类型](./Chapter5%20-%20Reference%20Types/Function%20类型.md)
   - [📚 第五章：Date 类型](./Chapter5%20-%20Reference%20Types/Date%20类型.md)
+  - [📚 第五章：RegExp 类型](./Chapter5%20-%20Reference%20Types/RegExp%20类型.md)
