@@ -28,3 +28,4 @@
   - [📚 第五章：RegExp 类型](./Chapter5%20-%20Reference%20Types/RegExp%20类型.md)
   - [📚 第五章：Boolean 类型](./Chapter5%20-%20Reference%20Types/Boolean%20类型.md)
   - [📚 第五章：Number 类型](./Chapter5%20-%20Reference%20Types/Number%20类型.md)
+  - [📚 第五章：String 类型](./Chapter5%20-%20Reference%20Types/String%20类型.md)
