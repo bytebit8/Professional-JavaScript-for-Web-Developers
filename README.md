@@ -35,3 +35,4 @@
   - [📚 第六章：深入 Object 类型](./Chapter6%20-%20Object-Oriented%20Programming/深入%20Object%20类型.md)
   - [📚 第六章：创建对象](./Chapter6%20-%20Object-Oriented%20Programming/创建对象.md)
   - [📚 第六章：对象继承](./Chapter6%20-%20Object-Oriented%20Programming/对象继承.md)
+  - [📚 第六章：对象属性](./Chapter6%20-%20Object-Oriented%20Programming/对象属性.md)
