@@ -37,3 +37,4 @@
   - [📚 第六章：对象继承](./Chapter6%20-%20Object-Oriented%20Programming/对象继承.md)
   - [📚 第六章：对象属性](./Chapter6%20-%20Object-Oriented%20Programming/对象属性.md)
 - [📚 第七章：函数表达式](./Chapter7%20-%20Function%20Expressions/函数表达式.md)
+- [📚 第八章：BOM](./Chapter8%20-%20The%20Browser%20Object%20Model/BOM.md)
