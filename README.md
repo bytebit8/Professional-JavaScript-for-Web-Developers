@@ -38,3 +38,4 @@
   - [📚 第六章：对象属性](./Chapter6%20-%20Object-Oriented%20Programming/对象属性.md)
 - [📚 第七章：函数表达式](./Chapter7%20-%20Function%20Expressions/函数表达式.md)
 - [📚 第八章：BOM](./Chapter8%20-%20The%20Browser%20Object%20Model/BOM.md)
+- [📚 第九章：客户端检测](./Chapter9%20-%20Client%20Detection/客户端检测.md)
