@@ -40,3 +40,4 @@
 - [📚 第八章：BOM](./Chapter8%20-%20The%20Browser%20Object%20Model/BOM.md)
 - [📚 第九章：客户端检测](./Chapter9%20-%20Client%20Detection/客户端检测.md)
 - [📚 第十章：DOM](./Chapter10%20-%20The%20Document%20Object%20Model/DOM.md)
+- [📚 第十一章：DOM 扩展](./Chapter11%20-%20DOM%20Extensions/DOM%20扩展.md)
